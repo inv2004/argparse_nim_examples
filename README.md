@@ -9,7 +9,7 @@ https://github.com/c-blake/cligen 1w                        # did not find a way
 https://github.com/iffy/nim-argparse 5m                     # multilevel is good. no types. Mixing optional args with commands is not supported
 https://github.com/madprops/nap 8m                          # did not find commands support
 https://bitbucket.org/maxgrenderjones/therapist  1y         # *everything looks good
-https://github.com/casey-SK/commandant 4y                   # *easy creation, but all values are global. int just calls parseInt
+https://github.com/casey-SK/commandant 4y                   # *easy creation, but all values are global. int just calls parseInt. does not suppose sub-subcommand
 https://github.com/HTGenomeAnalysisUnit/nim-simpleargs 3y   # cannot compile. not types
 https://github.com/AinTEAsports/nclap 2w                    # no types, not clear how to work with arguments
 ```
